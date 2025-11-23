@@ -1,0 +1,9 @@
+{
+	"name": "bavan-df-azure-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c568961f-0ac2-4d30-90a3-5facd8c04d34",
+		"tenantId": "f98ce00c-d8aa-45c6-bd6d-0e9d10f53ebc"
+	}
+}
